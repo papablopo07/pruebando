@@ -1,0 +1,42 @@
+h1 {
+    color: dodgerblue;
+}
+img, video{
+
+    max-width: 100%;
+    height: auto;
+}
+figcaption{
+    text-align: center;
+    color:blueviolet;
+            
+}
+html{
+    scroll-behavior:smooth;
+}
+.subtitulo {
+color: black;
+font-size: 10px;
+padding: 60px;
+}
+.tipo-etiqueta{
+    color: aqua;
+    text-align: center;
+}
+.imagen{
+
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.figuras{
+    color: brown;
+    font-size: 10px;
+}
+.listas{
+    color: chartreuse;
+    font-style: italic;
+}
+.seis{
+    color: blue;
+}
